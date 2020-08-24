@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Nhan",
+    "tel": "0978350922",
+    "permission": 1
+  },
+  {
+    "id": 2,
+    "name": "Doan gay",
+    "tel": "1432334124",
+    "permission": 2
+  },
+  {
+    "id": 3,
+    "name": "Trung gay",
+    "tel": "0978086743",
+    "permission": 3
+  },
+  {
+    "id": 4,
+    "name": "Nhan 2",
+    "tel": "0978142345",
+    "permission": 1
+  },
+  {
+    "id": 5,
+    "name": "Nhan 3",
+    "tel": "0978345678",
+    "permission": 1
+  }
+]
