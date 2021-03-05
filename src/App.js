@@ -1,10 +1,10 @@
 import React, { Component } from "react";
-import "./../App.css";
-import Header from "./Header";
-import Search from "./Search";
-import TableData from "./TableData";
-import Add from "./Add";
-import Data from "./Data.json";
+import "./App.css";
+import Header from "./Components/Header";
+import Search from "./Components/Search";
+import TableData from "./Components/TableData";
+import Add from "./Components/Add";
+import Data from "./Components/Data.json";
 import { v1 as uuidv1 } from "uuid";
 
 class App extends Component {
